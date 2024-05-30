@@ -1,0 +1,31 @@
+.backgroud-image-div {
+    background-image: url(crispycrap.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 800px;
+   http://127.0.0.1:5501/index.html#
+}
+
+.basic {
+    color: white;
+    font-weight: 700;
+   }
+ 
+
+
+.basic:hover {
+    color: gold;
+    text-decoration: none;
+}
+.hero {
+    font-size: 4.5em;
+    
+}
+
+
+
+button .btn:hover {
+    color: gold;
+    text-decoration: none;
+}
